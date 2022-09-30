@@ -1,12 +1,12 @@
 ---
 layout: essay
 type: essay
-title: "UI Basics Technical Essay"
+title: "Preparing For WODs"
 # All dates must be YYYY-MM-DD format!
 date: 2022-09-18
 published: true
 labels:
-  - Technical Essay
+  - Preparing For WODs
 ---
 For these three WODs, they focus on creating dynamic web pages through the use of many different functions and techniques. BrowserHistory6 expanded off of the BrowserHistory3 file and inputted the use buttons in place of hrefs which were linked to different HTML files for the respective browser information. The stylesheets were also changed in order to account for the button changes so that the web pages were able to populate with the new information in an organized and neat manner.  For the Invoice1 WOD, it covered the use of dynamically updated tables to fill in different product’s transaction information that appeared on a sales invoice. Each variable and its respective calculations were defined and later pulled into the table using the document.write function in their respective row instead of having to manually hardcode the information into the table directly. For the SmartPhoneProducts1 Variables WOD, we needed to update the Lab4 SmartPhoneProdcuts1 file so that products_display.html dynamically updated from a javascript file. We did this by copying over the data used in the HTML and pasting it into a javascript file and linking the data from the .js file through the document.write method. 
 
