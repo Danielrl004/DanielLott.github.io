@@ -1,3 +1,13 @@
+---
+layout: essay
+type: essay
+title: "Progress in Programming Report"
+# All dates must be YYYY-MM-DD format!
+date: 2022-11-09
+published: true
+labels:
+  - Preparing For WODs
+---
 
 <strong>1. My programming skills have greatly improved in the following ways: </strong>
 <br>
