@@ -33,11 +33,11 @@ The way we developed Assignment 1 was different from Assignment 2 because on Ass
 <br>
 I believe that we spent 15% on thinking about how to do something, this counts for research as well. Then about 25% writing the code, we spent this time brainstorming about what we want our if statements to valid and functions we wanted to use. Lastly, I would say we spent about 60% of our time testing and debugging. 
 <br>
-<b> Describe what worked well with this project? What did not work well?</b> 
+<b>7. Describe what worked well with this project? What did not work well?</b> 
 <br>
 I think that our debugging skills and overall thought process worked well for this project as we were able to figure out what we needed to do and where we needed to implement it in our code. I believe that the primary thing that hindered our performance was the issue that we had addressed earlier. Our time spent collaborating was always very productive though, and though we couldn’t figure out what was wrong with the code, the debugging allowed us to be confident that our code was inputted correctly. 
 <br>
-<b>7. If you could go back in time and do things differently, what would you do differently?</b> 
+<b>8. If you could go back in time and do things differently, what would you do differently?</b> 
 <br>
 I’m not entirely sure what we would have done differently as the only issue we encountered was quite unusual and we wouldn’t have necessarily been able to figure it out on our own. We tried getting in contact with the professor for help as much as we could, so I don’t believe that we could’ve done anything differently except for experimenting with using node earlier on our own. 
 
