@@ -1,0 +1,95 @@
+{
+  "basics": {
+    "name": "Daniel Lott",
+    "label": "Student",
+    "picture": "https://github.com/Danielrl004.png",
+    "email": "Danielrl@hawaii.edu",
+    "phone": "",
+    "website": "https://Danielrl004.github.io",
+    "summary": "I am currently studying Accounting and MIS in Shidler's College of Business. I expect to graduate in Spring, 2024.",
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "Danielrl004", "url": "http://github.com/changeme" },
+      { "network": "linkedin", "username": "DanielLott", "url": "http://linkedin.com/in/changeme" },
+      { "network": "twitter", "username": "", "url": "http://twitter.com/changeme" },
+      { "network": "instagram", "username": "_Dannyy0", "url": "http://instagram.com/changeme" }
+    ]
+  },
+  "interests": [
+    { "name": "Accounting" },
+    { "name": "Computer Science" },
+    { "name": "Golfing" },
+    { "name": "Spearfishing" },
+    { "name": "" }
+  ],
+  "skills": [
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Windows", "Git/GitHub", "Excel", "Word", "Powerpoint", "Access" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science and Accounting (expected Spring, 2024)",
+      "studyType": "B.S.",
+      "startDate": "2018-09-01",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "KMHLLP",
+      "position": "Audit Intern",
+      "website": "",
+      "startDate": "2022-01-06",
+      "endDate": "Present",
+      "summary": "Auditor of private businesses",
+      "highlights": [
+        "Perform detailed federal and state audits in accordance with the generally accepted accounting standards and respective accounting laws and regulations on company's financial statements",
+        "Performed analytical procedures and analyses to detect unusual financial relationships."
+      ]
+    },
+    {
+      "company": "UH Information Technology Services",
+      "position": "Help Desk Consultant",
+      "website": "http://www.hawaii.edu/its/",
+      "startDate": "2015-01-01",
+      "endDate": "2016-03-15",
+      "summary": "",
+      "highlights": [
+        "Troubleshoot software, hardware and networking issues over the phone",
+        "Answer phone and email responses to the ITS Help Desk"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Center for Renewable Energy and Island Sustainability",
+      "website": "http://manoa.hawaii.edu/reis",
+      "position": "Software Developer",
+      "startDate": "2016-01-01",
+      "endDate": "Present",
+      "summary": "Lead developer for weather sensing project",
+      "highlights": [
+        "Design firmware for distributed weather sensor network",
+        "Maintain custom data collection and storage infrastructure"
+      ]
+    },
+    {
+      "organization": "Beta Alpha Psi",
+      "website": "",
+      "position": "Candidate",
+      "startDate": "September 2021",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "",
+        "",
+        ""
+      ]
+    }
+]
+}
